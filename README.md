@@ -4,7 +4,9 @@ This project implements a deep learning model to detect hate speech in text usin
 # Project Workflow
 
 1. Dataset Loading
+   
    Dataset used: Jigsaw Toxic Comment Classification Challenge
+   
    Load the CSV file using pandas.
 3. Data Preprocessing
    Text Vectorization using TextVectorization layer
